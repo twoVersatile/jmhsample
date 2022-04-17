@@ -1,4 +1,4 @@
-package jmh;
+package com.sample.jmh;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;
